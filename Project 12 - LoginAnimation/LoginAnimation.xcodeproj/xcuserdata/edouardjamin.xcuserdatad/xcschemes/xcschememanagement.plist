@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>StopWatch.xcscheme</key>
+		<key>LoginAnimation.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>9FEF1CF51C3A23BC00B2C64E</key>
+		<key>9F3F2CBE1C4BFE7200193399</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9FEF1D0C1C3A23BC00B2C64E</key>
+		<key>9F3F2CD21C4BFE7300193399</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9FEF1D171C3A23BC00B2C64E</key>
+		<key>9F3F2CDD1C4BFE7300193399</key>
 		<dict>
 			<key>primary</key>
 			<true/>

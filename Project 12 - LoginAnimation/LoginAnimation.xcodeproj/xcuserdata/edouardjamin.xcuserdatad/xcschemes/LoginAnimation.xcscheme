@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9FEF1CF51C3A23BC00B2C64E"
-               BuildableName = "StopWatch.app"
-               BlueprintName = "StopWatch"
-               ReferencedContainer = "container:StopWatch.xcodeproj">
+               BlueprintIdentifier = "9F3F2CBE1C4BFE7200193399"
+               BuildableName = "LoginAnimation.app"
+               BlueprintName = "LoginAnimation"
+               ReferencedContainer = "container:LoginAnimation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9FEF1D0C1C3A23BC00B2C64E"
-               BuildableName = "StopWatchTests.xctest"
-               BlueprintName = "StopWatchTests"
-               ReferencedContainer = "container:StopWatch.xcodeproj">
+               BlueprintIdentifier = "9F3F2CD21C4BFE7300193399"
+               BuildableName = "LoginAnimationTests.xctest"
+               BlueprintName = "LoginAnimationTests"
+               ReferencedContainer = "container:LoginAnimation.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9FEF1D171C3A23BC00B2C64E"
-               BuildableName = "StopWatchUITests.xctest"
-               BlueprintName = "StopWatchUITests"
-               ReferencedContainer = "container:StopWatch.xcodeproj">
+               BlueprintIdentifier = "9F3F2CDD1C4BFE7300193399"
+               BuildableName = "LoginAnimationUITests.xctest"
+               BlueprintName = "LoginAnimationUITests"
+               ReferencedContainer = "container:LoginAnimation.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9FEF1CF51C3A23BC00B2C64E"
-            BuildableName = "StopWatch.app"
-            BlueprintName = "StopWatch"
-            ReferencedContainer = "container:StopWatch.xcodeproj">
+            BlueprintIdentifier = "9F3F2CBE1C4BFE7200193399"
+            BuildableName = "LoginAnimation.app"
+            BlueprintName = "LoginAnimation"
+            ReferencedContainer = "container:LoginAnimation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9FEF1CF51C3A23BC00B2C64E"
-            BuildableName = "StopWatch.app"
-            BlueprintName = "StopWatch"
-            ReferencedContainer = "container:StopWatch.xcodeproj">
+            BlueprintIdentifier = "9F3F2CBE1C4BFE7200193399"
+            BuildableName = "LoginAnimation.app"
+            BlueprintName = "LoginAnimation"
+            ReferencedContainer = "container:LoginAnimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9FEF1CF51C3A23BC00B2C64E"
-            BuildableName = "StopWatch.app"
-            BlueprintName = "StopWatch"
-            ReferencedContainer = "container:StopWatch.xcodeproj">
+            BlueprintIdentifier = "9F3F2CBE1C4BFE7200193399"
+            BuildableName = "LoginAnimation.app"
+            BlueprintName = "LoginAnimation"
+            ReferencedContainer = "container:LoginAnimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
